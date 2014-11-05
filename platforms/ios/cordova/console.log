@@ -1,0 +1,120 @@
+2014-11-04 15:51:16.630 PushNotificationApp[2465:23292] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/7CB93DBF-4182-4AE6-8002-83E3EC4999EB/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:51:16.745 PushNotificationApp[2465:23292] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:51:16.746 PushNotificationApp[2465:23292] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:51:16.774 PushNotificationApp[2465:23292] Unlimited access to network resources
+2014-11-04 15:51:16.780 PushNotificationApp[2465:23292] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:51:17.521 PushNotificationApp[2465:23292] active
+2014-11-04 15:51:17.522 PushNotificationApp[2465:23292] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2014-11-04 15:51:18.050 PushNotificationApp[2465:23292] Resetting plugins due to page load.
+2014-11-04 15:51:18.152 PushNotificationApp[2465:23292] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/337ADBD4-D9B2-49B3-BF2F-D227B398DE23/PushNotificationApp.app/www/index.html
+2014-11-04 15:52:59.502 PushNotificationApp[2773:24700] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/0A9770D4-BD43-41BE-8332-1B992602C851/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:52:59.591 PushNotificationApp[2773:24700] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:52:59.592 PushNotificationApp[2773:24700] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:52:59.597 PushNotificationApp[2773:24700] Unlimited access to network resources
+2014-11-04 15:52:59.599 PushNotificationApp[2773:24700] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:52:59.783 PushNotificationApp[2773:24700] active
+2014-11-04 15:52:59.784 PushNotificationApp[2773:24700] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2014-11-04 15:52:59.863 PushNotificationApp[2773:24700] Resetting plugins due to page load.
+2014-11-04 15:53:05.008 PushNotificationApp[2773:24700] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/DE924CF4-4225-4710-90B8-215B689E457E/PushNotificationApp.app/www/index.html
+2014-11-04 15:55:14.826 PushNotificationApp[3065:26098] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/C13BAC35-8EB2-4B65-A51B-203E479242B3/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:55:14.908 PushNotificationApp[3065:26098] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:55:14.909 PushNotificationApp[3065:26098] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:55:14.913 PushNotificationApp[3065:26098] Unlimited access to network resources
+2014-11-04 15:55:14.915 PushNotificationApp[3065:26098] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:55:15.157 PushNotificationApp[3065:26098] active
+2014-11-04 15:55:15.158 PushNotificationApp[3065:26098] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2014-11-04 15:55:15.186 PushNotificationApp[3065:26098] Resetting plugins due to page load.
+2014-11-04 15:55:15.231 PushNotificationApp[3065:26098] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/33E09A48-05EC-4079-A83F-D8DA038D633D/PushNotificationApp.app/www/index.html
+2014-11-04 15:56:18.740 PushNotificationApp[3387:27438] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/224B4709-19CA-4A6B-9F6D-2F12B4B99D8C/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:56:18.821 PushNotificationApp[3387:27438] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:56:18.821 PushNotificationApp[3387:27438] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:56:18.826 PushNotificationApp[3387:27438] Unlimited access to network resources
+2014-11-04 15:56:18.829 PushNotificationApp[3387:27438] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:56:19.064 PushNotificationApp[3387:27438] Resetting plugins due to page load.
+2014-11-04 15:56:19.116 PushNotificationApp[3387:27438] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/92951FF4-37A8-4C4F-85DD-D6C55425CEC8/PushNotificationApp.app/www/index.html
+2014-11-04 15:56:19.227 PushNotificationApp[3387:27438] active
+2014-11-04 15:56:19.229 PushNotificationApp[3387:27438] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2014-11-04 15:56:57.280 PushNotificationApp[3670:28218] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/31E56B8B-C2E1-48E1-90AF-5132B2086942/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:56:57.351 PushNotificationApp[3670:28218] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:56:57.352 PushNotificationApp[3670:28218] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:56:57.356 PushNotificationApp[3670:28218] Unlimited access to network resources
+2014-11-04 15:56:57.358 PushNotificationApp[3670:28218] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:56:57.582 PushNotificationApp[3670:28218] Resetting plugins due to page load.
+2014-11-04 15:56:57.710 PushNotificationApp[3670:28218] active
+2014-11-04 15:56:57.711 PushNotificationApp[3670:28218] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2014-11-04 15:56:59.414 PushNotificationApp[3670:28218] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/D8C64615-E22B-425F-AA12-78850128BECC/PushNotificationApp.app/www/index.html
+2014-11-04 15:57:41.127 PushNotificationApp[3948:28995] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/150FB364-DC42-4FEA-85B9-083E4BD00FB8/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:57:41.201 PushNotificationApp[3948:28995] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:57:41.202 PushNotificationApp[3948:28995] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:57:41.207 PushNotificationApp[3948:28995] Unlimited access to network resources
+2014-11-04 15:57:41.209 PushNotificationApp[3948:28995] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:57:41.458 PushNotificationApp[3948:28995] Resetting plugins due to page load.
+2014-11-04 15:57:41.489 PushNotificationApp[3948:28995] active
+2014-11-04 15:57:41.490 PushNotificationApp[3948:28995] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2014-11-04 15:57:46.412 PushNotificationApp[3948:28995] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/AD081C94-7604-4661-9A2E-BDBADBC754C7/PushNotificationApp.app/www/index.html
+2014-11-04 15:58:39.262 PushNotificationApp[4227:29868] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/016C9D99-08D1-46AE-8076-F3998AA608EB/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:58:39.329 PushNotificationApp[4227:29868] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:58:39.329 PushNotificationApp[4227:29868] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:58:39.334 PushNotificationApp[4227:29868] Unlimited access to network resources
+2014-11-04 15:58:39.337 PushNotificationApp[4227:29868] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:58:39.551 PushNotificationApp[4227:29868] Resetting plugins due to page load.
+2014-11-04 15:58:39.692 PushNotificationApp[4227:29868] active
+2014-11-04 15:58:39.693 PushNotificationApp[4227:29868] Attempting to badge the application icon but haven't received permission from the user to badge the application
+2014-11-04 15:58:43.734 PushNotificationApp[4227:29868] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/B91DA86B-F620-4787-B1E2-B2EC4F881432/PushNotificationApp.app/www/index.html
+2014-11-04 15:59:16.639 PushNotificationApp[4505:30540] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Data/Application/684CCCEA-7FC8-4D7D-AAF9-6C9711A595E2/Library/Cookies/Cookies.binarycookies
+2014-11-04 15:59:16.709 PushNotificationApp[4505:30540] Apache Cordova native platform version 3.6.3 is starting.
+2014-11-04 15:59:16.709 PushNotificationApp[4505:30540] Multi-tasking -> Device: YES, App: YES
+2014-11-04 15:59:16.714 PushNotificationApp[4505:30540] Unlimited access to network resources
+2014-11-04 15:59:16.716 PushNotificationApp[4505:30540] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+
+2014-11-04 15:59:16.940 PushNotificationApp[4505:30540] Resetting plugins due to page load.
+2014-11-04 15:59:16.988 PushNotificationApp[4505:30540] Finished load of: file:///Users/mehulshah/Library/Developer/CoreSimulator/Devices/2E1470F2-F51F-4AA5-BE2F-B25A31B5A645/data/Containers/Bundle/Application/38CE4ECF-DFE2-4B02-9937-C32131530F5F/PushNotificationApp.app/www/index.html
+2014-11-04 15:59:17.018 PushNotificationApp[4505:30540] active
+2014-11-04 15:59:17.019 PushNotificationApp[4505:30540] Attempting to badge the application icon but haven't received permission from the user to badge the application
